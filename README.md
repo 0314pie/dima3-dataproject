@@ -38,6 +38,6 @@
 
 ### 결과
 각 모델 별 분류결과 3개씩 취합해 최종적으로 3개를 제시하는 앙상블 모델을 사용한 결과 학습한 데이터 뿐 만 아니라 학습하지 않은 데이터에서도 높은 정확도의 예측을 보임
-![image](https://github.com/0314pie/dima3-dataproject/assets/153475125/ca5fbcbe-1086-48fb-8820-dc5b7a3109d5)
+![image](https://github.com/0314pie/dima3-dataproject/assets/153475125/a5c112ef-97a7-4498-981e-b49a20addc42)
 
 
